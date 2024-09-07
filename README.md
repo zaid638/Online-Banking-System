@@ -7,7 +7,7 @@ This is a simple online banking system created using Python Object Oriented Prog
 ## Class Diagram 
 <br />
 
-![img](Pictures/class diagram.PNG)
+![img](Pictures/classdiagram.PNG)
 <br /><br /><br />
 
 ## Distinguishing Features
